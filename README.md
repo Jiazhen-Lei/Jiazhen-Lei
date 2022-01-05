@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🔭 I’m currently an undergraduate student at [Northwerster Polytechnical University](http://www.nwpu.edu.cn/)and I will graduate in 2023
+- 🔭 I’m currently an undergraduate student at [Northwerster Polytechnical University](http://www.nwpu.edu.cn/) and I will graduate in 2023
 - 🌱 I had fun researching Machine learning, LoT, Embedded System and etc.
 - ⚡ Python/C
 - 💬 This is [my blog](https://jiazhen-lei.github.io/)
