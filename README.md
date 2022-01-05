@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently an undergraduate student at [Northwerster Polytechnical University](http://www.nwpu.edu.cn/)and I will graduate in 2023
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+- 🔭 I’m currently an undergraduate student at [Northwerster Polytechnical University](http://www.nwpu.edu.cn/)and I will graduate in 2023
+- 🌱 I had fun researching Machine learning, LoT, Embedded System and etc.
+- ⚡ Python/C/C++
+- 💬 This is [my blog](https://jiazhen-lei.github.io/)
+- 📫 You can contact me via [my email](719098427@qq.com)
+- 👯 I’m currently intern at [WNCLAB](http://www.wnclab.com/)
+- 🏃 Musci/Touch Fish/Travel
+
+[![Jiazhen-Lei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiazhen-Lei&show_icons=true&theme=highcontrast)](https://github.com/Jiazhen-Lei/github-readme-stats)
