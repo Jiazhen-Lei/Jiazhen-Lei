@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently an undergraduate student at [Northwerster Polytechnical University](http://www.nwpu.edu.cn/) and I will graduate in 2023
 - 🌱 I had fun researching Machine learning, LoT, Embedded System and etc.
-- ⚡ Python/C
+- ⚡ Python/C/C++
 - 💬 This is [my blog](https://jiazhen-lei.github.io/)
 - 📫 You can contact me via [my email](719098427@qq.com)
 - 👯 I’m currently intern at [WNCLAB](http://www.wnclab.com/)
