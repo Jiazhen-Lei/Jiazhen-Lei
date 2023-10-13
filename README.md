@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🔭 I’m currently an undergraduate student at [Northwerster Polytechnical University](http://www.nwpu.edu.cn/) and I will graduate in 2023
+- 🔭 I’m currently a first-year Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 - 🌱 I had fun researching Backscatter Communcation, Software Define Radio (SDR), Semantic Communication and etc.
 - ⚡ Python/C/C++
 - 💬 This is [my blog](https://jiazhen-lei.github.io/)
