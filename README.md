@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently a first-year Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
-- 🌱 I had fun researching hybrid communication systems, low-power ad-hoc networks and applications.
+- 🌱 I had fun researching hybrid communication systems, low-power networks and applications.
 - ⚡ Python/C/C++
 - 💬 This is [my blog](https://jiazhen-lei.github.io/)
 - 📫 You can contact me via [my email](leijiazhen@gmail.com)
