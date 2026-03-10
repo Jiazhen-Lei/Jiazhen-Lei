@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - 💬 This is [my blog](https://jiazhen-lei.github.io/)
 - 📫 You can contact me via [my email](leijiazhen@gmail.com)
 - 🏃 Music/Touch Fish/Travel/Outdoor
-
-[![Jiazhen-Lei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiazhen-Lei&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)](https://github.com/Jiazhen-Lei/github-readme-stats)
